@@ -1,6 +1,8 @@
 # Import library
 library(ggplot2)
 
+#hola!
+
 # Load data
 data <- read.csv("phytoplankton_data.csv", header =TRUE)
 
